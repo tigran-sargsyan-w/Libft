@@ -126,10 +126,7 @@ gcc main.c -L. -lft -o my_program
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out:
-
-- **GitHub**: [YourUsername](https://github.com/YourUsername)
-- **Email**: your.email@example.com
+If you have any questions or suggestions, feel free to reach me out.
 
 ---
 
