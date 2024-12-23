@@ -1,6 +1,6 @@
 # Libft
 
-![42 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/42_Logo.svg/1920px-42_Logo.svg.png)
+![42 Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfAZMOWHDQ3DKE63A9jWhIqQaKcKqUIXvzg&s)
 
 Libft is a custom implementation of some key functions from the C standard library, built as part of the curriculum at [42 School](https://42.fr/). The goal of this project is to deepen our understanding of low-level programming, memory management, and code optimization.
 
